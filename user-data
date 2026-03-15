@@ -15,12 +15,12 @@ write_files:
 
       [wifi]
       mode=infrastructure
-      ssid=Airtel_rupr_4874
+      ssid=Galaxy_M14_5G
 
       [wifi-security]
       auth-alg=open
       key-mgmt=wpa-psk
-      psk=Air@22344
+      psk=bapon@62
 
       [ipv4]
       method=auto

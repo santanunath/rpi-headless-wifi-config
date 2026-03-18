@@ -32,4 +32,4 @@ write_files:
 runcmd:
   - [ systemctl, daemon-reload ]
   - [ systemctl, restart, NetworkManager ]
-
+  - [ systemctl, enable, ssh ]
